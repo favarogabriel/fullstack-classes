@@ -1,0 +1,8 @@
+{
+  "editor.insertSpaces": true,
+  "explorer.fileNesting.enabled": false,
+  "code-runner.showRunCommandInExplorerContextMenu": true,
+  "npm.enableRunFromFolder": false,
+  "workbench.editor.openSideBySideDirection": "right",
+  "explorer.compactFolders": false
+}
